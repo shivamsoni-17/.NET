@@ -1,0 +1,12 @@
+C:\Users\Shivam Soni\source\repos\CRUD\CRUD\obj\Debug\CRUD.csproj.AssemblyReference.cache
+C:\Users\Shivam Soni\source\repos\CRUD\CRUD\obj\Debug\CRUD.CreateForm.resources
+C:\Users\Shivam Soni\source\repos\CRUD\CRUD\obj\Debug\CRUD.Properties.Resources.resources
+C:\Users\Shivam Soni\source\repos\CRUD\CRUD\obj\Debug\CRUD.csproj.GenerateResource.cache
+C:\Users\Shivam Soni\source\repos\CRUD\CRUD\obj\Debug\CRUD.csproj.CoreCompileInputs.cache
+C:\Users\Shivam Soni\source\repos\CRUD\CRUD\bin\Debug\CRUD.exe.config
+C:\Users\Shivam Soni\source\repos\CRUD\CRUD\bin\Debug\CRUD.exe
+C:\Users\Shivam Soni\source\repos\CRUD\CRUD\bin\Debug\CRUD.pdb
+C:\Users\Shivam Soni\source\repos\CRUD\CRUD\obj\Debug\CRUD.DeleteForm.resources
+C:\Users\Shivam Soni\source\repos\CRUD\CRUD\obj\Debug\CRUD.UpdateForm.resources
+C:\Users\Shivam Soni\source\repos\CRUD\CRUD\obj\Debug\CRUD.exe
+C:\Users\Shivam Soni\source\repos\CRUD\CRUD\obj\Debug\CRUD.pdb

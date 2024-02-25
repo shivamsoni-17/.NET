@@ -1,0 +1,11 @@
+C:\Users\Shivam Soni\source\repos\login_register\login_register\bin\Debug\login_register.exe.config
+C:\Users\Shivam Soni\source\repos\login_register\login_register\bin\Debug\login_register.exe
+C:\Users\Shivam Soni\source\repos\login_register\login_register\bin\Debug\login_register.pdb
+C:\Users\Shivam Soni\source\repos\login_register\login_register\obj\Debug\Student Marks Entry.csproj.AssemblyReference.cache
+C:\Users\Shivam Soni\source\repos\login_register\login_register\obj\Debug\login_register.LoginForm.resources
+C:\Users\Shivam Soni\source\repos\login_register\login_register\obj\Debug\login_register.Properties.Resources.resources
+C:\Users\Shivam Soni\source\repos\login_register\login_register\obj\Debug\login_register.RegistrationForm.resources
+C:\Users\Shivam Soni\source\repos\login_register\login_register\obj\Debug\Student Marks Entry.csproj.GenerateResource.cache
+C:\Users\Shivam Soni\source\repos\login_register\login_register\obj\Debug\Student Marks Entry.csproj.CoreCompileInputs.cache
+C:\Users\Shivam Soni\source\repos\login_register\login_register\obj\Debug\login_register.exe
+C:\Users\Shivam Soni\source\repos\login_register\login_register\obj\Debug\login_register.pdb

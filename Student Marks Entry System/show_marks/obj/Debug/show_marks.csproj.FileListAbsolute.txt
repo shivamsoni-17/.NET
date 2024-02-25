@@ -1,0 +1,9 @@
+C:\Users\Shivam Soni\source\repos\Student Marks Entry System\show_marks\bin\Debug\show_marks.exe.config
+C:\Users\Shivam Soni\source\repos\Student Marks Entry System\show_marks\bin\Debug\show_marks.exe
+C:\Users\Shivam Soni\source\repos\Student Marks Entry System\show_marks\bin\Debug\show_marks.pdb
+C:\Users\Shivam Soni\source\repos\Student Marks Entry System\show_marks\obj\Debug\show_marks.csproj.AssemblyReference.cache
+C:\Users\Shivam Soni\source\repos\Student Marks Entry System\show_marks\obj\Debug\show_marks.Properties.Resources.resources
+C:\Users\Shivam Soni\source\repos\Student Marks Entry System\show_marks\obj\Debug\show_marks.csproj.GenerateResource.cache
+C:\Users\Shivam Soni\source\repos\Student Marks Entry System\show_marks\obj\Debug\show_marks.csproj.CoreCompileInputs.cache
+C:\Users\Shivam Soni\source\repos\Student Marks Entry System\show_marks\obj\Debug\show_marks.exe
+C:\Users\Shivam Soni\source\repos\Student Marks Entry System\show_marks\obj\Debug\show_marks.pdb

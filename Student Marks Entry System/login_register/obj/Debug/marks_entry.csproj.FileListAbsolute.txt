@@ -1,0 +1,17 @@
+C:\Users\Shivam Soni\source\repos\Student Marks Entry System\login_register\obj\Debug\login_register.Properties.Resources.resources
+C:\Users\Shivam Soni\source\repos\Student Marks Entry System\login_register\obj\Debug\marks_entry.csproj.GenerateResource.cache
+C:\Users\Shivam Soni\source\repos\Student Marks Entry System\login_register\obj\Debug\marks_entry.csproj.CoreCompileInputs.cache
+C:\Users\Shivam Soni\source\repos\Student Marks Entry System\login_register\obj\Debug\login_register.exe
+C:\Users\Shivam Soni\source\repos\Student Marks Entry System\login_register\obj\Debug\login_register.pdb
+C:\Users\Shivam Soni\source\repos\Student Marks Entry System\login_register\obj\Debug\marks_entry.RegistrationForm.resources
+C:\Users\Shivam Soni\source\repos\Student Marks Entry System\login_register\bin\Debug\login_register.exe.config
+C:\Users\Shivam Soni\source\repos\Student Marks Entry System\login_register\bin\Debug\login_register.exe
+C:\Users\Shivam Soni\source\repos\Student Marks Entry System\login_register\bin\Debug\login_register.pdb
+C:\Users\Shivam Soni\source\repos\Student Marks Entry System\login_register\obj\Debug\marks_entry.LoginForm.resources
+C:\Users\Shivam Soni\source\repos\Student Marks Entry System\login_register\obj\Debug\marks_entry.TeacherInterface.resources
+C:\Users\Shivam Soni\source\repos\Student Marks Entry System\login_register\obj\Debug\marks_entry.All.resources
+C:\Users\Shivam Soni\source\repos\Student Marks Entry System\login_register\obj\Debug\marks_entry.EnterMarks.resources
+C:\Users\Shivam Soni\source\repos\Student Marks Entry System\login_register\obj\Debug\marks_entry.UpdateMarks.resources
+C:\Users\Shivam Soni\source\repos\Student Marks Entry System\login_register\obj\Debug\marks_entry.Particular.resources
+C:\Users\Shivam Soni\source\repos\Student Marks Entry System\login_register\obj\Debug\marks_entry.StudentInterface.resources
+C:\Users\Shivam Soni\source\repos\Student Marks Entry System\login_register\obj\Debug\marks_entry.csproj.AssemblyReference.cache
