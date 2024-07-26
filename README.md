@@ -1,4 +1,4 @@
-# Student Marks entry System with Login Registeration
+# Student Marks entry System with Login Registration
 <br>
 OUTPUT:
 <br>
