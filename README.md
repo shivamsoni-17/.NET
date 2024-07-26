@@ -1,5 +1,10 @@
 # Student Marks entry System with Login Registration
 <br>
+<br>
+CRUD contains the Database configurations and functions. // Change the connection string for database.
+(Preferred IDE 'Visual Studio 2019')                                                           
+<br>
+<br>
 OUTPUT:
 <br>
 <br>
