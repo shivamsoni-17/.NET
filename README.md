@@ -25,9 +25,10 @@ OUTPUT:
 
 ### Teacher-Interface
 <img src="https://github.com/user-attachments/assets/02ff204a-6b41-4c16-ab34-051f9f806858" width="400">
-<br>
+&nbsp &nbsp
 <img src="https://github.com/user-attachments/assets/a910e8fb-6cba-4e3f-926b-f7bddaeab342" width="400">
 <br>
-<img src="https://github.com/user-attachments/assets/f3ddd509-057d-4360-893f-2555eb18eeb3" width="400">
 <br>
+<img src="https://github.com/user-attachments/assets/f3ddd509-057d-4360-893f-2555eb18eeb3" width="400">
+&nbsp &nbsp
 <img src="https://github.com/user-attachments/assets/879dff76-72fd-4602-9142-af20f62daab2" width="400">
